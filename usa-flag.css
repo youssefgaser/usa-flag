@@ -1,0 +1,383 @@
+body {
+    background-color: rgb(255, 252, 247);
+    
+}
+
+#container {
+    position: relative;
+    left: 30%;
+    top: 100px;
+}
+
+#colors-container {
+    width: 600px;
+    height: 360px;
+    background-color: white;
+    position: absolute;
+}
+
+#blue {
+    background-color: #002768;
+    width: 230px;
+    height: 210px;
+}
+
+.red {
+    background-color: #be0b31;
+    width: 100%;
+    height: 30px;
+    position: absolute;
+}
+
+#one, #two, #three, #four {
+    width: 370px;
+    left: 230px;
+}
+
+#one {
+    top: 0px;
+}
+
+#two {
+    top: 60px;
+}
+
+#three {
+    top: 120px;
+}
+
+#four {
+    top: 180px;
+}
+
+#five {
+    top: 240px;
+}
+
+#six {
+    top: 300px;
+}
+
+#seven {
+    top: 360px;
+}
+
+.star-container {
+    width: 230px;
+    height: 210px;
+    position: absolute;
+    top: 10px;
+    left: 0px;
+}
+
+
+
+img {
+    width: 20px;
+}
+
+#s1 {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+#s2 {
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+    
+#s3 {
+    position: absolute;
+    left: 45px;
+    top: 5px;
+}
+
+#s4 {
+    position: absolute;
+    left: 65px;
+    top: 25px;
+}
+
+#s5 {
+    position: absolute;
+    left: 85px;
+    top: 5px;
+}
+
+#s6 {
+    position: absolute;
+    left: 105px;
+    top: 25px;
+}
+
+#s7 {
+    position: absolute;
+    left: 125px;
+    top: 5px;
+}
+
+#s8 {
+    position: absolute;
+    left: 145px;
+    top: 25px;
+}
+
+#s9 {
+    position: absolute;
+    left: 165px;
+    top: 5px;
+}
+
+#s10 {
+    position: absolute;
+    left: 185px;
+    top: 25px;
+}
+
+#s11 {
+    position: absolute;
+    left: 205px;
+    top: 5px;
+}
+
+#s12 {
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+#s13 {
+    position: absolute;
+    left: 5px;
+    top: 45px;
+}
+
+#s14 {
+    position: absolute;
+    left: 45px;
+    top: 45px;
+}
+
+#s15 {
+    position: absolute;
+    left: 85px;
+    top: 45px;
+}
+
+#s16 {
+    position: absolute;
+    left: 125px;
+    top: 45px;
+}
+
+#s17 {
+    position: absolute;
+    left: 165px;
+    top: 45px;
+}
+
+#s18 {
+    position: absolute;
+    left: 204px;
+    top: 45px;
+}
+
+#s19 {
+    position: absolute;
+    left: 25px;
+    top: 65px;
+}
+
+#s20 {
+    position: absolute;
+    left: 65px;
+    top: 65px;
+}
+
+#s21 {
+    position: absolute;
+    left: 105px;
+    top: 65px;
+}
+
+#s22 {
+    position: absolute;
+    left: 145px;
+    top: 65px;
+}
+
+#s23 {
+    position: absolute;
+    left: 185px;
+    top: 65px;
+}
+
+#s24 {
+    position: absolute;
+    left: 5px;
+    top: 85px;
+}
+
+#s25 {
+    position: absolute;
+    left: 45px;
+    top: 85px;
+}
+
+#s26 {
+    position: absolute;
+    left: 85px;
+    top: 85px;
+}
+
+#s27 {
+    position: absolute;
+    left: 125px;
+    top: 85px;
+}
+
+#s28 {
+    position: absolute;
+    left: 165px;
+    top: 85px;
+}
+
+#s29 {
+    position: absolute;
+    left: 205px;
+    top: 85px;
+}
+
+#s30 {
+    position: absolute;
+    left: 25px;
+    top: 105px;
+}
+
+#s31 {
+    position: absolute;
+    left: 65px;
+    top: 105px;
+}
+
+#s32 {
+    position: absolute;
+    left: 105px;
+    top: 105px;
+}
+
+#s33 {
+    position: absolute;
+    left: 145px;
+    top: 105px;
+}
+
+#s34 {
+    position: absolute;
+    left: 185px;
+    top: 105px;
+}
+
+#s35 {
+    position: absolute;
+    left: 5px;
+    top: 125px;
+}
+
+#s36 {
+    position: absolute;
+    left: 45px;
+    top: 125px;
+}
+
+#s37 {
+    position: absolute;
+    left: 85px;
+    top: 125px;
+}
+
+#s38 {
+    position: absolute;
+    left: 125px;
+    top: 125px;
+}
+
+#s39 {
+    position: absolute;
+    left: 165px;
+    top: 125px;
+}
+
+#s40 {
+    position: absolute;
+    left: 205px;
+    top: 125px;
+}
+
+#s41 {
+    position: absolute;
+    left: 25px;
+    top: 145px;
+}
+
+#s42 {
+    position: absolute;
+    left: 65px;
+    top: 145px;
+}
+
+#s43 {
+    position: absolute;
+    left: 105px;
+    top: 145px;
+}
+
+#s44 {
+    position: absolute;
+    left: 145px;
+    top: 145px;
+}
+
+#s45 {
+    position: absolute;
+    left: 185px;
+    top: 145px;
+}
+
+#s46 {
+    position: absolute;
+    left: 5px;
+    top: 165px;
+}
+
+#s47 {
+    position: absolute;
+    left: 45px;
+    top: 165px;
+}
+
+#s48 {
+    position: absolute;
+    left: 85px;
+    top: 165px;
+}
+
+#s49 {
+    position: absolute;
+    left: 125px;
+    top: 165px;
+}
+
+#s50 {
+    position: absolute;
+    left: 165px;
+    top: 165px;
+}
+
+#s51 {
+    position: absolute;
+    left: 205px;
+    top: 165px;
+}
